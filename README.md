@@ -1,2 +1,1 @@
-# Cafe-Pro
-Human Computer Interface (HCI) Project
+IR Project 2
